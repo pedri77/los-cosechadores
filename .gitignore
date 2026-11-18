@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+originales
+recortes.jpg
+rejilla.jpg
+qa
+HALLAZGOS-SKILL.md
